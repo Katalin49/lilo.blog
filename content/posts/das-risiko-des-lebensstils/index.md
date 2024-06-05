@@ -1,7 +1,7 @@
 +++
 title = "Das Risiko des Lebensstils"
 date = "2024-06-05"
-draft = true
+draft = false
 pinned = false
 tags = ["GymnasiumKirchenfeld", "Deutsch", "Reportage"]
 image = "https://augustozambonato.com/images/work/dna/dna-making.jpg"
