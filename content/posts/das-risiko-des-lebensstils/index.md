@@ -17,11 +17,11 @@ Die Genetik ist die Wissenschaft der Vererbung. Sie befasst sich mit den Gesetzm
 Wie auch Marion Simon, zweifelt der Prof. Albert Schinzel (Genetiker), Prof. Remo Largo (Kinderarzt) und Prof. Daniell Hell (Psychiater), Forscher an dem Institut für Medizinischen Genetik an der Universität Zürich, die Verehrung der Gene. Ihre Forschungen, aus einem Artikel von Felix Straumann im Jahr 2004 geschrieben, beschäftigen sich mit dem Einfluss der Gene auf den Menschen. Sie sind überzeugt, dass die Macht der Gene überschätzt wird, so wie dies vor hundert Jahren schon einmal der Fall gewesen sei. 
 Eine wichtige Erkenntnis ist, dass nie nur ein Gen was auslöst. Es sei immer ein komplexes Zusammenspiel zahlreicher Erbfaktoren mit der Umwelt. Das Leben besteht aus unglaublich vielen Umweltfaktoren, welche alle das Diagnostizieren erschweren können. Mit der Brille der genetischen Prädisposition kann man es so beschreiben. Wenn Sie zum Beispiel das Gen für Brustkrebs haben, ist das Risiko dieser Krankheit in späteren Jahren zu bekommen höher. Aber, wenn Sie ein anderes X-Gen (irgendein unbekanntes Gen) besitzen, die das Gen für Brustkrebs entgegenwirkt, kann es sein, dass Sie trotzdem nicht Brustkrebs bekommen. Das Gegenteil ist ebenfalls möglich. Sie haben ein Y-Gen, das bei dem Brustkrebsgen mitwirkt und die Krankheit dadurch verursacht. Es ist nie ein einziges Gen, das etwas auslöst, sondern immer ein Zusammenspiel von mehreren Genen, Genfaktoren und Umweltfaktoren. Das können Dr. Med. Priscilla Dubouloz Eugster, Dr. Med. Roland Eugster, zwei Ärzte der Praxis im Monbijou in Bern, und Marion Simon bestätigen.
 
-`{{<box>}}`
+{{<box>}}
 
 Chronische Krankheiten ruhen nicht nur auf die genetische Vererbung, sondern sind ein Ergebnis einer Kombinati-on von genetisch, physiologischen, umweltbedingten und verhaltensbedingten Faktoren.
 
-`{{</box>}}`
+{{</box>}}
 
 Also, obwohl Ivo Späths Grossmutter dieselbe Krankheit hatte wie er und womöglich die Gene von ihr vererbt bekommen hat, ist die Signifikanz von mehreren Faktoren immer zu beachten. Ein anderer Faktor, von irgendeiner Art, hat zusätzlich auf diese vererbten Gene mitgewirkt und die Krankheit bei ihm verursacht. Nicht nur seine Grossmutter ist daran schuld.
 
