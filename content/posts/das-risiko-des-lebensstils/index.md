@@ -28,9 +28,9 @@ Eine wichtige Erkenntnis ist, dass nie nur ein Gen was auslöst. Es sei immer ei
 
 Also, obwohl Ivo Späths Grossmutter dieselbe Krankheit hatte wie er und womöglich die Gene von ihr vererbt bekommen hat, ist die Signifikanz von mehreren Faktoren immer zu beachten. Ein anderer Faktor, von irgendeiner Art, hat zusätzlich auf diese vererbten Gene mitgewirkt und die Krankheit bei ihm verursacht. Nicht nur seine Grossmutter ist daran schuld.
 
-![Abbildung 1: Dr. Med. Priscilla Dubouloz Eugster – Ärztin in der Praxis im Monbijou](https://praxis-im-monbijou.ch/images/3Praxis_im_Monbijou_barba-design-Priscilla-102_13Praxis_im_Monbijou_barba-design-Priscilla-102.webp)
+![Abbildung 1: Dr. Med. Priscilla Dubouloz Eugster – Ärztin in der Praxis im Monbijou](dubouloz.jpg)
 
-![Abbildung 2: Dr. Med. Roland Eugster – Arzt in der Praxis im Monbijou](https://praxis-im-monbijou.ch/images/3-Praxis_im_Monbijou_2023_barba-design-Roland-98_13-Praxis_im_Monbijou_2023_barba-design-Roland-98.webp)
+![Abbildung 2: Dr. Med. Roland Eugster – Arzt in der Praxis im Monbijou](eugster.jpg)
 
 # «Man ist was man isst»
 
