@@ -10,8 +10,6 @@ footnotes = "**Begriffserklärung**\n1 : Diabetes Typ I entsteht, wenn die Betaz
 +++
 {{<lead>}} Welche Rolle spielen unsere Ernährung und Emotionen für unsere Gesundheit? Kann ein schlechter Lebensstil gewisse chronische Krankheiten auslösen? Experten beobachten einen Anstieg an Diagnosen von chronischen Krankheiten. Was kann man selbst dagegen machen?{{</lead>}}
 
-![](dna.jpg)
-
 Im belebten Zentrum der Altstadt Bern laufen die Menschen an einem schnell, langsam und rennend vorbei. Von allen Seiten hört man die Geräusche einer Stadt: Das Klingeln der Strassenbahn, Busse und das Gurren der Tauben. Zusammen kreiert es eine wahrlich überwältigende Tonlandschaft. Wenn man hochschaut, sieht man die berühmte Zytglogge mit seinem schönen goldigen Zeiger und seinen Bemalungen. Die grüne Spitze ragt in den Himmel und bringt einen wunderbaren Kontrast zu den roten Dächern der Häuser. Die Zytglogge, das Zentrum der Verwirrung, wo sich alle in eine unterschiedliche Richtung bewegen. Da steht vor der kleinen süssen Apotheke rechts der Zytglogge ein grosser Mann, mit einer Brille und Mütze auf dem Kopf. Ivo Späth, jemand, der schon in seiner Jugend, mit Typ I Diabetes diagnostiziert wurde. Nur wenig weit entfernt steht das majestätische Gebäude der Kornhausbibliothek, wo das Interview stattgefunden hat. Links und rechts reihen sich viele Regale voll Bücher aller Grössen und Farben. Ein belebter Ort für alle, mit Tischen, Sofas und Computer. Hier erzählt Ivo Späth von seinem Leben als Diabetiker Typ 1. 
 
 # Genetik
@@ -20,11 +18,7 @@ Die Genetik ist die Wissenschaft der Vererbung. Sie befasst sich mit den Gesetzm
 Wie auch Marion Simon, zweifelt der Prof. Albert Schinzel (Genetiker), Prof. Remo Largo (Kinderarzt) und Prof. Daniell Hell (Psychiater), Forscher an dem Institut für Medizinischen Genetik an der Universität Zürich, die Verehrung der Gene. Ihre Forschungen, aus einem Artikel von Felix Straumann im Jahr 2004 geschrieben, beschäftigen sich mit dem Einfluss der Gene auf den Menschen. Sie sind überzeugt, dass die Macht der Gene überschätzt wird, so wie dies vor hundert Jahren schon einmal der Fall gewesen sei. 
 Eine wichtige Erkenntnis ist, dass nie nur ein Gen was auslöst. Es sei immer ein komplexes Zusammenspiel zahlreicher Erbfaktoren mit der Umwelt. Das Leben besteht aus unglaublich vielen Umweltfaktoren, welche alle das Diagnostizieren erschweren können. Mit der Brille der genetischen Prädisposition kann man es so beschreiben. Wenn Sie zum Beispiel das Gen für Brustkrebs haben, ist das Risiko dieser Krankheit in späteren Jahren zu bekommen höher. Aber, wenn Sie ein anderes X-Gen (irgendein unbekanntes Gen) besitzen, die das Gen für Brustkrebs entgegenwirkt, kann es sein, dass Sie trotzdem nicht Brustkrebs bekommen. Das Gegenteil ist ebenfalls möglich. Sie haben ein Y-Gen, das bei dem Brustkrebsgen mitwirkt und die Krankheit dadurch verursacht. Es ist nie ein einziges Gen, das etwas auslöst, sondern immer ein Zusammenspiel von mehreren Genen, Genfaktoren und Umweltfaktoren. Das können Dr. Med. Priscilla Dubouloz Eugster, Dr. Med. Roland Eugster, zwei Ärzte der Praxis im Monbijou in Bern, und Marion Simon bestätigen.
 
-
-
 {{<box>}} Chronische Krankheiten ruhen nicht nur auf die genetische Vererbung, sondern sind ein Ergebnis einer Kombination von genetisch, physiologischen, umweltbedingten und verhaltensbedingten Faktoren.{{</box>}}
-
-
 
 Also, obwohl Ivo Späths Grossmutter dieselbe Krankheit hatte wie er und womöglich die Gene von ihr vererbt bekommen hat, ist die Signifikanz von mehreren Faktoren immer zu beachten. Ein anderer Faktor, von irgendeiner Art, hat zusätzlich auf diese vererbten Gene mitgewirkt und die Krankheit bei ihm verursacht. Nicht nur seine Grossmutter ist daran schuld.
 
