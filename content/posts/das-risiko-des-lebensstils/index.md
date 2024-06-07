@@ -20,7 +20,7 @@ Eine wichtige Erkenntnis ist, dass nie nur ein Gen was auslöst. Es sei immer ei
 
 
 
-{{<box>}} Chronische Krankheiten ruhen nicht nur auf die genetische Vererbung, sondern sind ein Ergebnis einer Kombinati-on von genetisch, physiologischen, umweltbedingten und verhaltensbedingten Faktoren.{{</box>}}
+{{<box>}} Chronische Krankheiten ruhen nicht nur auf die genetische Vererbung, sondern sind ein Ergebnis einer Kombination von genetisch, physiologischen, umweltbedingten und verhaltensbedingten Faktoren.{{</box>}}
 
 
 
