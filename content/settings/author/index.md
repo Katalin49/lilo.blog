@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "KP"
-image = "/img/default-author.jpg"
+image = "/media/kitty-v2.jpeg"
 url = "/about/"
 +++
